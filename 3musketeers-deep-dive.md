@@ -8,6 +8,26 @@ Make 101's:
 
 **https://3musketeers.io/docs/make.html**
 
+- target vs _target
+- .PHONY
+- Docker and Compose commands as variables
+- Target dependencies
+- Pipeline targets
+- make and target all
+- Target and Single Responsibility
+- Idempotency
+- Targets .env and envfile
+- Project dependencies
+- Calling multiple targets in a single command
+- Prevent echoing the command
+- Continue on error
+- Clean Docker and files
+- Managing containers in target
+- Multiple Makefiles
+- Complex targets
+- Self-Documented Makefile
+
+
 Having a clean `Makefile` is key. It helps to understand it quickly and is easier to maintain.
 
 https://3musketeers.io/docs/make.html#target-vs-target
@@ -17,7 +37,7 @@ https://3musketeers.io/docs/make.html#target-vs-target
 
 https://3musketeers.io/docs/make.html#complex-targets
 
-If your make file is getting complex, consider if all the logic should be in `make`.
+If your make file is getting complex, consider if all the logic should be in `make` or if you can simplify it or push it down the stack.
 
 # Docker
 
