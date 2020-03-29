@@ -13,3 +13,5 @@ Understand the pros/cons of each pattern an use the pattern that makes the most 
 - Task management tool
 - Docker
 - Docker-in-Docker (DinD)
+
+Next: [3musketeers-deep-dive.md](3musketeers-deep-dive.md)
