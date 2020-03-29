@@ -1,5 +1,11 @@
 # Make
 
+Make 101's:
+
+- https://odino.org/makefile-101/
+- https://devhints.io/makefile
+- https://gist.github.com/isaacs/62a2d1825d04437c6f08
+
 **https://3musketeers.io/docs/make.html**
 
 Having a clean `Makefile` is key. It helps to understand it quickly and is easier to maintain.
