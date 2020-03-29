@@ -1,3 +1,9 @@
+# The "Why"
+
+I know how to build my own projects. Why should we put so much effort into our pipelines?
+
+https://medium.com/@drew.khoury/optimizing-for-dx-the-developer-experience-f37fe168642d
+
 # 3 musketeers
 
 https://3musketeers.io/ (Test, build, and deploy your apps from anywhere, the same way)
