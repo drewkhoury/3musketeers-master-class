@@ -35,7 +35,7 @@ Don't confuse using `docker-compose` during your build/test steps with deploying
 
 People often use compose files (with 3musketeers) to avoid having long and messy make files.
 
-## To Compose or Not to Compose
+### To Compose or Not to Compose
 
 If your use of docker is simple for a particular task, feel free to skip the compose file.
 
@@ -51,7 +51,7 @@ Notice that the compose file does all the volume mounting, workdir (and would do
 
 Consider an even more complex senerio that invovled multiple services, logs, naming of containers, starting and stopping containers, cleanup when done.
 
-# Who's fault is it anyway?
+### Who's fault is it anyway?
 
 3musketeers **will not** stop you from writing bad pipelines or bad code.
 
