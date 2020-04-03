@@ -1,5 +1,14 @@
 # 3musketeers-master-class
 
+## What is 3 Musketeers?
+
+It's a great way to create a convention that fits almost every situation.
+
+It enables different teams to be able to work together, despite using drastically different technologies,
+
+To do that, all they have to do is follow a minimal amount of convention,
+
+
 ## Things you'll learn in this master class ...
 
 - Make
